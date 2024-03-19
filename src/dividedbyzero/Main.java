@@ -1,4 +1,4 @@
-package dividedbyzero;
+package dividebyzero;
 public class Main {
 
     /**
